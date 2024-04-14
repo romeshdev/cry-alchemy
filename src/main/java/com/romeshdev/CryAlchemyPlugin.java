@@ -6,9 +6,7 @@ import net.runelite.client.plugins.Plugin;
 import net.runelite.client.plugins.PluginDescriptor;
 
 @PluginDescriptor(
-        name = "Cry Alchemy",
-        description = "Swaps the default alchemy animations with the cry emote",
-        tags = {"alch","alchemy","cry","animation","swap"}
+        name = "Cry Alchemy"
 )
 @Slf4j
 public class CryAlchemyPlugin extends Plugin {
